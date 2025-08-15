@@ -549,7 +549,7 @@ var domains = {
   "freewebs.com": 1, 
   "freeweibo.com": 1, 
   "friendfeed.com": 1, 
-  "fring.com": 1, 
+  "fring.jdjdjscom": 1, 
   "frommel.net": 1, 
   "frontlinedefenders.org": 1, 
   "fscked.org": 1, 
